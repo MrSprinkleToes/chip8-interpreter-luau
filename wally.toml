@@ -1,0 +1,10 @@
+[package]
+name = "mrsprinkletoes/emulators"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+GradientCanvas = "boatbomber/gradientcanvas@0.1.8"
+Net = "vorlias/net@3.0.6"
+Fusion = "elttob/fusion@0.2.0"

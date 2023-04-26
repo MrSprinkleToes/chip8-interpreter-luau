@@ -1,0 +1,1 @@
+require(script.emulators.chip8["init.chip8"])
